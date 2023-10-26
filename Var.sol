@@ -1,4 +1,4 @@
-```solidity
+
 
 //SPDX-License-Identifier:MIT
 
@@ -15,4 +15,4 @@ contract AssemblyVar{
 }
 
 
-```
+
