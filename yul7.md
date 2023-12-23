@@ -1,4 +1,4 @@
-```solidty
+```solidity
 
 //SPDX-License-Identifier:MIT
 
